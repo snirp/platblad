@@ -1,0 +1,5 @@
+<ul>
+{% for b in blogs %}
+  <li><a href="{{ url_for('blog_detail', name=b.name, lang=b.lang ) }}">{{ b.meta.title }}</a></li>
+{% endfor %}
+</ul>

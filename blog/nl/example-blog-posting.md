@@ -1,4 +1,4 @@
-title: "Example of a blog posting"
+title: "Voorbeeld van een blogposting"
 author: "Roy Prins"
 published: 2014-02-13
 lastmod: 2014-02-14
